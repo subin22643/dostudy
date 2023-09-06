@@ -1,0 +1,47 @@
+.card{
+  border: 1px solid black;
+  width: 700px;
+  height: 280px;
+  padding: 20px;
+}
+
+.card-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-img{
+  width: 150px;
+  height: 150px;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+}
+
+.card-section{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0px;
+  padding: 0px 20px;
+}
+
+.card-section-name{
+  text-align: center;
+}
+
+.gototop {
+  margin-top: -15px;
+}
+
+.ttop {
+  margin-top: -30px;
+}
+
+.footer{
+  text-align: end;
+  margin-top: -15px;
+}
+
+
