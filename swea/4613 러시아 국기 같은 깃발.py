@@ -10,6 +10,7 @@ for t in range(1, T+1):
                 line = i+j+k
                 if i >= 1 and j >= 1 and k >= 1 and line == N:
                     num.append([i, j, k])
+    print(num)
     min_cnt = 9999
     for n in num:
         cnt = 0
