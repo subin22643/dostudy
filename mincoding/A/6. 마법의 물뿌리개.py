@@ -25,4 +25,3 @@ for t in range(1, T+1):
         day += water2*2
 
     print(f'#{t}',day)
-    
