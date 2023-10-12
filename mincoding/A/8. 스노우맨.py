@@ -39,7 +39,6 @@ for i in range(N):
             start_i = i
             start_j = j
             break
-
 for n in range(N):
     if bfs(n):
         print(n)
